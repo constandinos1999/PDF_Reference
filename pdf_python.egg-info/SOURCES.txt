@@ -1,0 +1,16 @@
+setup.py
+pdf_python/__init__.py
+pdf_python/config.py
+pdf_python/extractor.py
+pdf_python/gui.py
+pdf_python/main.py
+pdf_python/utils.py
+pdf_python/verifier.py
+pdf_python.egg-info/PKG-INFO
+pdf_python.egg-info/SOURCES.txt
+pdf_python.egg-info/dependency_links.txt
+pdf_python.egg-info/requires.txt
+pdf_python.egg-info/top_level.txt
+tests/__init__.py
+tests/test_extractor.py
+tests/test_verifier.py

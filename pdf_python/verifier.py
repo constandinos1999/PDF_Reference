@@ -2,8 +2,7 @@ import hashlib
 import requests
 import time
 import logging
-from config import CONFIG
-
+from .config import CONFIG 
 cache = {}
 
 def verify_with_api(reference: str):

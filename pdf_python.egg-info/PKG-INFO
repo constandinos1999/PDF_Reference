@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: pdf_python
+Version: 0.1
+Requires-Dist: pdfminer.six
+Requires-Dist: pdfplumber
+Requires-Dist: PyPDF2
+Requires-Dist: requests
+Dynamic: requires-dist
